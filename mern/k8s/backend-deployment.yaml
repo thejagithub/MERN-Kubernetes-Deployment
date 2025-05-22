@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: yourdockerhubusername/mern-backend:1.0
+          image: thejadocker1425/mern-backend:1.0
           ports:
             - containerPort: 5050
           env:

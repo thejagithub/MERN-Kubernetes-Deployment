@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: yourdockerhubusername/mern-frontend:1.0
+          image: thejadocker1425/mern-frontend:1.0
           ports:
             - containerPort: 5173
 ---
