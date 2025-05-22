@@ -77,6 +77,8 @@ mern-kubernetes-deployment/
    docker build -t yourdockerhubusername/mern-frontend:1.0 .
    docker push yourdockerhubusername/mern-frontend:1.0
    ```
+   ![docker hub](https://github.com/user-attachments/assets/5754fad0-c927-4a25-b0ab-a496e0781a2b)
+
 3. Apply Kubernetes Manifests
    ```bash
    cd ../k8s
@@ -86,8 +88,14 @@ mern-kubernetes-deployment/
    Start Minikube service tunnel:
    ```bash
    minikube service frontend
+   
    ```
+   ![deployment success](https://github.com/user-attachments/assets/aa99101a-05c8-48b0-8c93-2e8a6692637a)
+
    Use the provided URL to access the frontend in a browser.
+
+   
+   ![Frontend UI](https://github.com/user-attachments/assets/56985862-5c07-49be-ace0-ba1e54f47e71)
 
 ---
 
