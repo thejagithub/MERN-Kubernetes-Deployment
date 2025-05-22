@@ -31,15 +31,6 @@ This repository showcases the deployment of a full-stack MERN (MongoDB, Express,
 
 ---
 
-## 🛠️ Features
-
-- Add new employees with details
-- View a list of employees
-- Fully containerized frontend and backend
-- Frontend connects to backend via service discovery (`backend` service)
-- MongoDB used for persistent storage
-
----
 
 ## 📁 Project Structure
 
