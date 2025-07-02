@@ -61,7 +61,7 @@ mern-kubernetes-deployment/
 
 1. Clone the Repository
    ```bash
-   git clone https://github.com/yourusername/mern-kubernetes-deployment.git
+   git clone https://github.com/thejagithub/mern-kubernetes-deployment.git
    cd mern-kubernetes-deployment
    ```
 2. Build and Push Docker Images
